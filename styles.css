@@ -1,0 +1,47 @@
+#backgroundmain {
+Background-color: lightgrey;
+}
+
+#background {
+Background-color: lightgreen;
+}
+p {
+background-color: lightblue;
+}
+
+p {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 40px;
+  margin-left: 65px;
+}
+div {
+  padding: 1px 1px;
+}
+
+.intro {
+  background-color: lightyellow;
+}
+
+#firstname {
+  background-color: pink;
+}
+
+#secondname {
+  background-color: lavender;
+}
+
+#thirdname {
+  background-color: pink;
+}
+
+#fourthname {
+  background-color: lightyellow;
+}
+
+img {
+  	
+  border-radius: 25px;
+  height: 40%px;
+  width: 40%;
+}
